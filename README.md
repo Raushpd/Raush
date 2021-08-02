@@ -1,2 +1,4 @@
-# Raush
-My personal repository.
+- 👋 Hi, I’m Raushan Prasad.
+- 👀 I’m interested in Java, Full Stack, Python.
+- 🌱 I’m currently learning Full Stack
+- 💞️ I’m looking to collaborate on Java, Python, Full Stack
