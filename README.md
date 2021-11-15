@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Raushan Prasad.
 - 👀 I’m interested in Java, React, Full Stack, Python.
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on Java, Python, Full Stack
+- 🌱 I’m currently working at Curus Health.
+- 💞️ I’m looking to collaborate on Java, Python, Full Stack.
